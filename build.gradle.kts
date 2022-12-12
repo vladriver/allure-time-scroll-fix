@@ -83,7 +83,7 @@ subprojects {
             dependency("org.apache.httpcomponents:httpclient:4.5.13")
             dependency("org.apache.tika:tika-core:2.1.0")
             dependency("org.assertj:assertj-core:3.20.2")
-            dependency("org.eclipse.jetty:jetty-server:9.4.43.v20210629")
+            dependency("org.eclipse.jetty:jetty-server:11.0.13")
             dependency("org.freemarker:freemarker:2.3.31")
             dependency("org.mockito:mockito-core:3.12.4")
             dependency("org.projectlombok:lombok:1.18.20")
